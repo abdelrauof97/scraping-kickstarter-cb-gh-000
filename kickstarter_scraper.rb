@@ -2,6 +2,8 @@ require "nokogiri"
 
 def create_project_hash
   
-  def 
+  def create_project_hash
+    
+  end
   
 end
